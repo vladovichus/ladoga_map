@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: 05c3ba90d11084724994b2b13ba6c435
+timeCreated: 1511507775
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: Arc002
+    100004: Arc003
+    100006: //RootNode
+    100008: Object008
+    100010: Object009
+    100012: Object010
+    100014: Plane001
+    100016: Plane002
+    100018: Plane003
+    100020: Tube004
+    400000: Arc001
+    400002: Arc002
+    400004: Arc003
+    400006: //RootNode
+    400008: Object008
+    400010: Object009
+    400012: Object010
+    400014: Plane001
+    400016: Plane002
+    400018: Plane003
+    400020: Tube004
+    2300000: Object008
+    2300002: Object009
+    2300004: Object010
+    2300006: Plane001
+    2300008: Plane002
+    2300010: Plane003
+    2300012: Tube004
+    3300000: Object008
+    3300002: Object009
+    3300004: Object010
+    3300006: Plane001
+    3300008: Plane002
+    3300010: Plane003
+    3300012: Tube004
+    4300000: Tube004
+    4300002: Object008
+    4300004: Object009
+    4300006: Object010
+    4300008: Plane001
+    4300010: Plane002
+    4300012: Plane003
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 01 - Default
+    second: {fileID: 2100000, guid: 7176173eaaca349399b73dd0542a2bf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 03 - Default
+    second: {fileID: 2100000, guid: b5348456d92934b0789b82a25b773680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eols 1
+    second: {fileID: 2100000, guid: 148427cde2f464f67b8bd83f337efae0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eols 2
+    second: {fileID: 2100000, guid: e75ea26ea5b3d4fdc90e3bc0e71b781a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eols 3
+    second: {fileID: 2100000, guid: 95b03e26600184f009526a8a36bb9bca, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
